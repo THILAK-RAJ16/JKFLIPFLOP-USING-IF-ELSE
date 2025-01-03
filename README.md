@@ -70,8 +70,8 @@ RegisterNumber: 24900585
 ![Screenshot 2024-12-03 144507](https://github.com/user-attachments/assets/cd9915bf-e8e5-4f5f-83db-f7a70b00548d)
 
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+**TIMING DIAGRAMS FOR FLIP FLOPS**
 ![Screenshot 2024-12-03 143942](https://github.com/user-attachments/assets/77c3434d-ffdf-42be-a88b-0ba7accd858f)
 
-**RESULTS**
+**RESULT**
 JK flipflop is implemented using verilog and validated their functionality using their functional tables.
